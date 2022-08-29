@@ -26,7 +26,7 @@ fetch("https://jsonplaceholder.typicode.com/users")
 </table>
 `;
 
-      // output += `
+      // dataReturned += `
 
       // <h3>${user.name}</h3>
       // <p>${user.email}</p>
