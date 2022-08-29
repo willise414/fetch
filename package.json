@@ -1,0 +1,15 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages - d dist"
+  },
+  "author": "Sean Williams",
+  "license": "ISC",
+  "homepage": "https://willise414.github.io/fetch",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
